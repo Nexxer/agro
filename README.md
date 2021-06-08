@@ -2,7 +2,7 @@
 
 [Задание](#about-the-task) <br>
 [Запуск проекта](#start_project) <br>
-[Запуск проекта](#stop_project)
+[Остановка проекта](#stop_project)
 
 
 ## Задание <a name = "about-the-task"></a>
