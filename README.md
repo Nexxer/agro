@@ -29,4 +29,3 @@
 
 1. Узанйте <b>CONTAINER_ID</b> требуемого контейнера выполнив команду: `docker ps`
 2. Введите команду `docker stop` <b>`CONTAINER_ID`</b>, где CONTAINER_ID из п.1
-3.
